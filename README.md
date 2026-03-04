@@ -8,6 +8,7 @@ I am a passionate AI and Machine Learning Engineer dedicated to transforming dat
 ## 🛠️ Technical Stack
 
 **Artificial Intelligence & Machine Learning**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -15,13 +16,17 @@ I am a passionate AI and Machine Learning Engineer dedicated to transforming dat
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Development & Tools**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-* **Core Skills:** RAG, LLM Integration, Vector Databases (ChromaDB), CNN, ANN, and Document Intelligence.
-* **ML Algorithms:** Linear/Logistic Regression, SVM, Random Forest, XGBoost, and K-means.
+**Core Skills:**
+RAG, LLM Integration, Vector Databases (ChromaDB), CNN, ANN, and Document Intelligence.
+  
+**ML Algorithms:**
+Linear/Logistic Regression, SVM, Random Forest, XGBoost, and K-means.
 
 
 ---
