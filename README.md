@@ -23,25 +23,34 @@ I am a passionate AI and Machine Learning Engineer dedicated to transforming dat
 * **Core Skills:** RAG, LLM Integration, Vector Databases (ChromaDB), CNN, ANN, and Document Intelligence.
 * **ML Algorithms:** Linear/Logistic Regression, SVM, Random Forest, XGBoost, and K-means.
 
+
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Intelligent Document Q&A System (RAG)
+### [🧠 Intelligent Document Q&A System (RAG)](https://github.com/M7md3llam/arabic-rag-system)
 * Architected an end-to-end RAG system supporting 10+ file formats with multilingual support (Arabic/English).
 * Implemented vector search using **ChromaDB** and OpenAI embeddings for high-accuracy semantic retrieval.
 * Built automated data extraction and visualization pipelines using **Pandas** and **Matplotlib**.
+### [🧠 AI assistant chatbot](https://github.com/M7md3llam/Ai-agent-by-llama-by-Groq)
+* Built CLI-based chatbot using LangChain agent framework and Groq's Llama 3.1-8B 
+model with persistent chat history for context-aware conversations.
+* Implemented custom system prompts ensuring safe, professional responses and designed extensible 
+agent architecture supporting future tool integration.
+* Features real-time streaming,error handling, and secure API management with production-ready code structure.
 
-### 🏥 Diabetes Prediction (Deep Learning)
+### [🏥 Diabetes Prediction (Deep Learning)](https://www.kaggle.com/code/mhmdallam/diabetes-in-deep-learning-ac-92)
 * Processed an Indian diabetes dataset, resolving 12 critical data quality issues to improve completeness by 35%.
 * Achieved **92% accuracy** without overfitting, validated against published research benchmarks.
 * Awarded a **"Distinct"** grade for this graduation project.
 
-### 🏠 House Price Prediction
+### [🏠 House Price Prediction](https://www.kaggle.com/code/mhmdallam/house-price-by-lr-rf-and-dt)
 * Developed regression models achieving **97% accuracy** using Linear Regression, Random Forest, and Decision Tree models.
 
-### 🔍 OCR Text Extractor
+### [🔍 OCR Text Extractor](https://github.com/M7md3llam/OCR-System)
 * Built a system to convert images and PDFs into clean, formatted text with automatic quality checking.
+
+And another projects here in Repositories and in kegle account 
 
 ---
 
@@ -58,8 +67,8 @@ I am a passionate AI and Machine Learning Engineer dedicated to transforming dat
 ## 📬 Connect with Me
 - 📍 Cairo, Egypt
 - 📧 [m7md3.3llam@gmail.com](mailto:m7md3.3llam@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com) | [Kaggle](https://kaggle.com)
+- 🔗 [LinkedIn](https://linkedin.com/mhmdallam) | [Kaggle](https://kaggle.com/mhmdallam)
 - 💬 **Languages:** Arabic (Native), English (Excellent)
 
 ---
-[📄 Download My Full Resume](.[/MA%20Resume.pdf](https://drive.google.com/file/d/1_FENouCm7ZMzq5_4iWLDr1NE8q1qPiM7/view?usp=sharing))
+[📄 Download My Full Resume](https://drive.google.com/file/d/1_FENouCm7ZMzq5_4iWLDr1NE8q1qPiM7/view?usp=sharing)
