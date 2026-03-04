@@ -67,7 +67,7 @@ And another projects here in Repositories and in kegle account
 ## 📬 Connect with Me
 - 📍 Cairo, Egypt
 - 📧 [m7md3.3llam@gmail.com](mailto:m7md3.3llam@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/mhmdallam) | [Kaggle](https://kaggle.com/mhmdallam)
+- 🔗 [LinkedIn](https://linkedin.com/mhmdallam/) | [Kaggle](https://kaggle.com/mhmdallam)
 - 💬 **Languages:** Arabic (Native), English (Excellent)
 
 ---
